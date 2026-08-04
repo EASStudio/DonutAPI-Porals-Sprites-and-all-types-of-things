@@ -1,4 +1,4 @@
-# DonutAPI-Porals-Sprites-and-all-types-of-things
+# DonutAPI - Portals Sprites and all types of things
 An updated 90s-style raycaster with portals, sprites and all types of things. Also using DonutAPI! (Go use it pls :) )
 
 <img width="1597" height="1007" alt="Screenshot 2026-08-04 175943" src="https://github.com/user-attachments/assets/736196a5-5df9-4ae3-8437-7cb74ba6f8bb" />

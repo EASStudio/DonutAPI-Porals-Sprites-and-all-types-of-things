@@ -1,0 +1,56 @@
+Renderer:
+
+1. Add Moution back-ground texture, rivers and lakes
+
+2. Buildings | Castles and Houses
+
+3. Add main UI : Look to Graphics, with a loading screen first then main menu
+
+4. Add exceptions for portals with dungeons rendering
+
+5. Add boy and girl textures
+
+Gameplay:
+
+Add Entitys
+Add Player
+Add Weapons
+Add Armor
+Add Skill tree
+Add Player Classes
+Add Day and night cycle
+
+Graphics:
+
+Doom/Quake-style first person FOV
+Pixalited
+Daggerfall UI
+
+Gameplay: Open World RPG | Games to look at:
+
+Diablo 1
+Skyrim
+Daggerfall
+Eternium
+
+Classes:
+
+Warrior
+Mage
+Rouge
+
+Game Mechanics:
+
+Skill and ability tree for each class
+Armor types and armor drops
+Weapons and weapon/armor upgrades
+Day and night cycle
+Option to sleep
+Interaction with all NPC
+Have NPC sleep at night
+Large open worlds
+
+Extras:
+
+Around 500MB for the game is the goal
+All within the console
